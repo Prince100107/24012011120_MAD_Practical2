@@ -27,10 +27,10 @@ This practical demonstrates the different stages of the Android Activity Life Cy
 ## Output
 
 ### Snackbar Message
-![Snackbar Message](app/Screenshots/2_1.png)
+![Snackbar Message](Screenshots/2_1.png)
 
 ### Toast Message
-![Toast Message](app/Screenshots/2_2.png)
+![Toast Message](Screenshots/2_2.png)
 
 ### Logcat Output
 ![Logcat](app/Screenshots/2_3.png)
